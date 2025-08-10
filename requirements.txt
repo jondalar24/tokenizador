@@ -1,0 +1,5 @@
+nltk
+torch
+torchtext
+transformers
+sentencepiece
